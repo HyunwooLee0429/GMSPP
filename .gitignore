@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.spl
+*.abs
+*.pdf
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Old/archive (not for public repo)
+old/
+_archive/
+literature/
+Cote/
+thumbnails/
+els-cas-templates/
+elsarticle/
+
+# Temp files
+temp.txt
+orl_compile*.log
+
+# LaTeX source (separate submission)
+*.tex
+*.bib
+*.cls
+*.sty
+*.bst
+*.png
+GMSPP_paper_v4_keeping.pdf
+
+# Home notebook duplicate
+Experiments_GMSPP_home.ipynb
+
+# Benchmark archives and families not used in the paper
+benchmarks/*.zip
+benchmarks/BENG/
+benchmarks/BKW/
+benchmarks/C/
+benchmarks/CGCUT/
+benchmarks/GCUT/
+benchmarks/NGCUT/
+benchmarks/N_T/
+benchmarks/T/
+benchmarks/gcut_test/
+benchmarks/test_c.json
+benchmarks/2sp.zip
+
+# Paper sources live in a separate submission workflow
+paper_v2/
+benchmarks/gcut_test*
