@@ -61,4 +61,19 @@ generously shared by Jean-François Côté. See the paper
 
 ## Citation
 
-Please cite the paper above; BibTeX will be added upon publication.
+Until the journal version appears, please cite the preprint:
+
+```bibtex
+@misc{lee2026gmspp,
+  author        = {Lee, Hyunwoo and Cheong, Taesu},
+  title         = {Exact and Matheuristic Methods for the Generalized
+                   Multiple Strip Packing Problem},
+  year          = {2026},
+  eprint        = {2604.04740},
+  archivePrefix = {arXiv},
+  primaryClass  = {math.OC},
+  url           = {https://arxiv.org/abs/2604.04740}
+}
+```
+
+The BibTeX for the journal version will be added on publication.
